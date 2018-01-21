@@ -2,7 +2,7 @@
 ## Introduction
 * Perhaps one of the most ugly game in history
 * The main goal was to implement a physics engine from scratch
-* The SAT theorem and its properties is used to perform collision detection
+* The [SAT theorem](https://en.wikipedia.org/wiki/Hyperplane_separation_theorem) and its properties is used to perform collision detection
 
 ## Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=rRmxoQZdyW8
